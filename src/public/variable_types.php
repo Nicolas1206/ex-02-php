@@ -14,6 +14,5 @@ $family = array(
     2 => 'David',
     3 => 'Nicolas'
     );
-echo "<p>The first person in my family is" . " " . {$family[1]} . ".""</p>";
-// echo {$family};
+echo "<p>The first person in my family is" . " " . $family[0] . ".</p>";
 ?>
