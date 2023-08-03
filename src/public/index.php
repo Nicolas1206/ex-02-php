@@ -6,6 +6,8 @@
     <title>02-php</title>
 </head>
 <body>
-    
+    <?php 
+    include 'variable_types.php';
+    ?> 
 </body>
 </html>
